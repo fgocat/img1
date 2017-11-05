@@ -1,0 +1,10 @@
+{
+    "channel" : 2,
+    "sampleRate" : 44100,
+    "sampleCount" : 6162432,
+    "comment" : "",
+    "loop" : true,
+    "loopStart" : 2313216,
+    "loopEnd" : 6161408,
+    "loopCount" : 0
+}
